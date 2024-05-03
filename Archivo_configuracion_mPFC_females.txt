@@ -1,0 +1,11 @@
+Rata	Counts	Grupo	Sexo	Familia
+1.2	counts_mPFC/1.2mPFC_strandedyes.tsv	DH	F	1
+2.1	counts_mPFC/2.1mPFC_strandedyes.tsv	DH	F	2
+2.2	counts_mPFC/2.2mPFC_strandedyes.tsv	DH	F	2
+3.11	counts_mPFC/3.11mPFC_strandedyes.tsv	C	F	3
+4.2	counts_mPFC/4.2mPFC_strandedyes.tsv	DH	F	4
+5.5	counts_mPFC/5.5mPFC_strandedyes.tsv	C	F	5
+5.6	counts_mPFC/5.6mPFC_strandedyes.tsv	C	F	5
+5.7	counts_mPFC/5.7mPFC_strandedyes.tsv	C	F	5
+7.3	counts_mPFC/7.3mPFC_strandedyes.tsv	DH	F	7
+7.9	counts_mPFC/7.9mPFC_strandedyes.tsv	C	F	7
